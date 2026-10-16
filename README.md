@@ -1,135 +1,177 @@
-<div align="center">VENKATRAMAMOORTHY G
+ <div align="center">
 
-Python Full Stack Developer | Django • REST APIs • MySQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=220&section=header&text=VENKATRAMAMOORTHY%20G&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
 
-Building practical web applications with clean code and reliable backend systems.
+<a href="https://github.com/Sadham1412">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer;Building+Web+Applications+%26+REST+APIs;Turning+Ideas+Into+Working+Solutions;Always+Learning.+Always+Building." alt="Typing animation"/>
+</a>
 
-""Email" (https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:venkat17092003@gmail.com)
-""GitHub" (https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github)" (https://github.com/Sadham1412)
+<p>
+<a href="https://github.com/Sadham1412"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:venkat17092003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://gifthub.sale/"><img src="https://img.shields.io/badge/Live_Project-GiftHub-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+</p>
 
 📍 Chennai, Tamil Nadu, India
 
-</div>---
-
-"01" — About Me
-
-Hello! I'm Venkatramamoorthy, an MCA graduate and aspiring Python Full Stack Developer who enjoys turning ideas into useful software applications.
-
-- 💻 Interested in Python development and full-stack web applications.
-- ⚙️ Working with Django, REST APIs, SQL and frontend technologies.
-- 🚀 Experienced in building projects and deploying web applications.
-- 🧠 Continuously improving my problem-solving and development skills.
-- 🎯 Looking for opportunities to grow as a Python / Django Developer.
+</div>
 
 ---
 
-"02" — Tech Stack
+## ◈ `01` — WHO AM I?
+
+```python
+class Developer:
+    name = "Venkatramamoorthy G"
+    education = "MCA Graduate"
+    role = "Python Full Stack Developer"
+
+    skills = [
+        "Python", "Django", "REST APIs",
+        "MySQL", "JavaScript", "React"
+    ]
+
+    interests = [
+        "Web Development",
+        "Backend Engineering",
+        "Building Real-World Projects"
+    ]
+
+    currently = "Learning, building & growing 🚀"
+```
+
+I am an MCA graduate passionate about developing practical web applications using Python and Django. I enjoy working across frontend and backend technologies, designing database-driven applications, and deploying projects that solve real-world problems.
+
+---
+
+## ◈ `02` — TECH ARSENAL
+
+<div align="center">
+
+**⚡ Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+
+**🎨 Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=django,mysql&theme=dark" />
+
+**🛠️ Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## ◈ `03` — FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="50%" valign="top">Languages
+<td width="50%" valign="top">
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<h3>🚚 Logistics Management System</h3>
 
-Backend
+<img src="https://img.shields.io/badge/Django-Backend-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-"Django" (https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_API-005571?style=flat-square)
+A delivery management platform built to organize orders and coordinate customers, drivers and administrators.
+
+- Order creation and tracking
+- Driver assignment workflow
+- Location and customer management
+- Delivery status updates
+
+<a href="https://logistic-project-zj01.onrender.com/"><b>↗ View Live Project</b></a>
 
 </td>
-<td width="50%" valign="top">Frontend
+<td width="50%" valign="top">
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<h3>🎁 GiftHub.sale</h3>
 
-Database & Tools
+<img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-Payments-2D9CDB?style=flat-square"/>
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+A freelance voucher-selling website built with a full-stack Django architecture.
+
+- Voucher sales workflow
+- Database-driven application
+- Payment gateway integration
+- User and order management
+
+<a href="https://gifthub.sale/"><b>↗ Visit Live Website</b></a>
 
 </td>
 </tr>
-</table>---
+<tr>
+<td colspan="2" valign="top">
 
-"03" — Featured Projects
+<h3>♻️ ECOTRACK SEGREGATOR</h3>
 
-🚚 Logistics Management System
+<img src="https://img.shields.io/badge/IoT-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded-C-orange?style=flat-square"/>
 
-Django · Python · MySQL · Bootstrap
+An IoT-enabled waste segregation and monitoring system using sensors, motors and GSM alerts.
 
-A web-based logistics application designed to manage orders, drivers, customers and delivery progress.
+- Sensor-based waste classification
+- Automated waste segregation
+- Bin fill-level monitoring
+- GSM-based alert notifications
 
-- Customer registration, login and order placement.
-- Admin management of locations, customers, drivers and orders.
-- Driver assignment and delivery-status tracking.
-- Order workflow: Pending → Picked Up → In Transit → Delivered.
-
-🔗 "View Live Application" (https://logistic-project-zj01.onrender.com/)
-
-🎁 GiftHub.sale — Voucher Platform
-
-Django · Python · MySQL · Bootstrap · Razorpay
-
-A full-stack voucher-selling website developed as a freelance project.
-
-- User authentication and account management.
-- Voucher listings and order management.
-- Payment gateway integration with Razorpay.
-- Admin features for managing users, vouchers and orders.
-
-🔗 "Visit GiftHub.sale" (https://gifthub.sale/)
-
-♻️ ECOTRACK SEGREGATOR — IoT Project
-
-Arduino · Sensors · Embedded C · GSM
-
-An IoT-enabled waste segregation and monitoring system designed to improve waste sorting and bin monitoring.
-
-- Sensor-based waste detection and segregation.
-- Separate bins for different waste categories.
-- Ultrasonic monitoring of bin fill levels.
-- GSM notifications when bins reach configured thresholds.
+</td>
+</tr>
+</table>
 
 ---
 
-"04" — GitHub Activity
+## ◈ `04` — GITHUB ANALYTICS
 
-<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF&rank_icon=github" />
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=Sadham1412&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
 
-</div>---
+<img width="75%" src="https://streak-stats.demolab.com?user=Sadham1412&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=AAAAAA" />
 
-"05" — Education
-
-🎓 Master of Computer Applications (MCA)
-
-Focused on computer applications, programming, databases and software development.
+</div>
 
 ---
 
-"06" — Let's Connect
+## ◈ `05` — EDUCATION
 
-I'm interested in Python Developer, Django Developer and Junior Software Developer opportunities.
+<div align="center">
 
-📧 Email: "venkat17092003@gmail.com" (mailto:venkat17092003@gmail.com)
+🎓 **MASTER OF COMPUTER APPLICATIONS (MCA)**
 
-📱 Phone: +91 6383560226
+Computer Applications · Programming · Database Management · Software Development
 
-💻 GitHub: "github.com/Sadham1412" (https://github.com/Sadham1412)
+</div>
 
 ---
 
-<div align="center">Build. Learn. Improve. Repeat.
+## ◈ `06` — LET'S CONNECT
 
-"Profile Views" (https://komarev.com/ghpvc/?username=Sadham1412&style=flat-square&color=blueviolet)
+<div align="center">
+
+### Have an idea? Let's build something great.
+
+<a href="mailto:venkat17092003@gmail.com"><img src="https://img.shields.io/badge/Email-venkat17092003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://github.com/Sadham1412"><img src="https://img.shields.io/badge/GitHub-Sadham1412-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://gifthub.sale/"><img src="https://img.shields.io/badge/Portfolio-GiftHub.sale-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+
+📱 **+91 6383560226**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:090979&height=110&section=footer" width="100%"/>
+
+**`CODE` · `CREATE` · `DEPLOY` · `REPEAT`**
 
 </div>
