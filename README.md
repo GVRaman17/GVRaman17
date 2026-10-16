@@ -1,15 +1,13 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=220&section=header&text=VENKATRAMAMOORTHY%20G&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:7C3AED&height=220&section=header&text=VENKATRAMAMOORTHY%20G&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=Python%20Full%20Stack%20Developer&descSize=19&descAlignY=57&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/Sadham1412">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer;Building+Web+Applications+%26+REST+APIs;Turning+Ideas+Into+Working+Solutions;Always+Learning.+Always+Building." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+REST+APIs;Full+Stack+Web+Application+Development;Building+Real-World+Software+Solutions;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy" alt="Typing SVG"/>
 
 <p>
-<a href="https://github.com/Sadham1412"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:venkat17092003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://gifthub.sale/"><img src="https://img.shields.io/badge/Live_Project-GiftHub-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="mailto:venkat17092003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/GVRaman17"><img src="https://img.shields.io/badge/GitHub-GVRaman17-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/venkatramamoorthy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 📍 Chennai, Tamil Nadu, India
@@ -18,109 +16,133 @@
 
 ---
 
-## ◈ `01` — WHO AM I?
+## 👨‍💻 About Me
 
-```python
-class Developer:
-    name = "Venkatramamoorthy G"
-    education = "MCA Graduate"
-    role = "Python Full Stack Developer"
+I'm an **MCA graduate and Python Full Stack Developer** with hands-on experience developing and deploying web applications. My experience includes freelance full-stack development, responsive frontend interfaces, Django backend services, database management, authentication, and payment gateway integration.
 
-    skills = [
-        "Python", "Django", "REST APIs",
-        "MySQL", "JavaScript", "React"
-    ]
-
-    interests = [
-        "Web Development",
-        "Backend Engineering",
-        "Building Real-World Projects"
-    ]
-
-    currently = "Learning, building & growing 🚀"
-```
-
-I am an MCA graduate passionate about developing practical web applications using Python and Django. I enjoy working across frontend and backend technologies, designing database-driven applications, and deploying projects that solve real-world problems.
+- 🔭 Developed and deployed **GiftHub.sale**, a freelance voucher-selling platform.
+- 🚚 Built a Django-based Logistics Management System with automated driver assignment.
+- ♻️ Worked on an IoT-enabled waste segregation and monitoring project.
+- 🤖 Developed a voice-controlled AI assistant using Python and Google APIs.
+- 🌱 Continuously improving my software development and problem-solving skills.
+- 🎯 Interested in Python Developer, Django Developer, and Junior Software Developer opportunities.
 
 ---
 
-## ◈ `02` — TECH ARSENAL
+## 🧰 Technical Skills
 
 <div align="center">
 
-**⚡ Programming Languages**
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" alt="Programming languages"/>
 
-**🎨 Frontend Development**
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django"/>
 
-**⚙️ Backend & Database**
+<img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_ORM-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=django,mysql&theme=dark" />
+### Frontend
 
-**🛠️ Development Tools**
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark" alt="Frontend technologies"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### Database & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Database and tools"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+
+### Deployment & Integrations
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square"/>
+<img src="https://img.shields.io/badge/Razorpay-2B84EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
 </div>
 
 ---
 
-## ◈ `03` — FEATURED PROJECTS
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚚 Logistics Management System</h3>
+<h3>🎁 GiftHub.sale</h3>
 
-<img src="https://img.shields.io/badge/Django-Backend-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Freelance_Project-7C3AED?style=flat-square"/>
 
-A delivery management platform built to organize orders and coordinate customers, drivers and administrators.
+**Tech:** Python · Django · MySQL · JavaScript · Razorpay
 
-- Order creation and tracking
-- Driver assignment workflow
-- Location and customer management
-- Delivery status updates
+A full-stack e-commerce platform for selling digital gift cards and vouchers.
 
-<a href="https://logistic-project-zj01.onrender.com/"><b>↗ View Live Project</b></a>
+- Secure OTP-based authentication
+- Google OAuth login
+- Razorpay payment integration
+- Admin inventory and order management
+- VPS deployment with Nginx, Gunicorn and SSL
+
+<a href="https://gifthub.sale/"><b>🌐 Visit Live Website →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎁 GiftHub.sale</h3>
+<h3>🚚 Logistics Management System</h3>
 
-<img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Razorpay-Payments-2D9CDB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack_Project-0891B2?style=flat-square"/>
 
-A freelance voucher-selling website built with a full-stack Django architecture.
+**Tech:** Python · Django · MySQL · Bootstrap
 
-- Voucher sales workflow
-- Database-driven application
-- Payment gateway integration
-- User and order management
+A logistics application for managing customers, drivers, orders and delivery operations.
 
-<a href="https://gifthub.sale/"><b>↗ Visit Live Website</b></a>
+- Role-based access for Admin, Customer and Driver
+- Order creation and delivery tracking
+- Automatic driver assignment
+- Location and weight-capacity matching
+- GitHub version control and Render deployment
+
+<a href="https://logistic-project-zj01.onrender.com/"><b>🌐 Open Live Application →</b></a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-<h3>♻️ ECOTRACK SEGREGATOR</h3>
+<h3>♻️ IoT Waste Segregation</h3>
 
-<img src="https://img.shields.io/badge/IoT-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded-C-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT_Project-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Patent-Published-7C3AED?style=flat-square"/>
 
-An IoT-enabled waste segregation and monitoring system using sensors, motors and GSM alerts.
+**Tech:** Arduino IDE · C++ · Sensors
 
-- Sensor-based waste classification
-- Automated waste segregation
-- Bin fill-level monitoring
-- GSM-based alert notifications
+An IoT-enabled smart bin for automated waste classification and monitoring.
+
+- Classifies dry, wet and metal waste
+- Uses sensors and microcontrollers
+- Monitors waste levels
+- Provides automated alert notifications
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 Echo AI Assistant</h3>
+
+<img src="https://img.shields.io/badge/AI_Project-DB2777?style=flat-square"/>
+
+**Tech:** Python · Google APIs
+
+A voice-controlled personal assistant designed to provide interactive responses and automate simple tasks.
+
+- Voice-controlled interaction
+- Keyword-based response mechanisms
+- Google API integration
+- Personal task automation features
 
 </td>
 </tr>
@@ -128,50 +150,84 @@ An IoT-enabled waste segregation and monitoring system using sensors, motors and
 
 ---
 
-## ◈ `04` — GITHUB ANALYTICS
+## 💼 Experience
+
+### Freelance Full Stack Developer
+
+<text color="secondary" size="sm">March 2026 – July 2026</text>
+
+**Client Project — GiftHub.sale**
+
+- Architected and developed a digital gift card and voucher-selling platform.
+- Implemented authentication, email notifications and Google OAuth.
+- Integrated Razorpay for online payments.
+- Built admin features using Django ORM.
+- Deployed the production application using Nginx and Gunicorn.
+
+### Frontend Developer Intern — IBM SkillsBuild
+
+<text color="secondary" size="sm">June 2024 – July 2024</text>
+
+- Developed responsive web interfaces using HTML, CSS and JavaScript.
+- Worked on cross-device compatibility and accessibility.
+- Collaborated on dynamic and functional UI components.
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Result |
+|---|---|---|
+| MCA (2023–2025) | B.S. Abdur Rahman Crescent Institute of Science and Technology | CGPA: 9.44 |
+| BCA (2020–2023) | Bharath Institute of Higher Education and Research | CGPA: 8.83 |
+
+---
+
+## 📜 Certifications
+
+- Full Stack Web Development in Python — Softlogic Academy (SLA)
+- Data Science using Python — SWAYAM
+- Cyber Security
+- Hardware and Networking
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GVRaman17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVRaman17&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="Most used languages"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Sadham1412&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=AAAAAA" />
+<img width="75%" src="https://streak-stats.demolab.com?user=GVRaman17&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## ◈ `05` — EDUCATION
+## 🤝 Connect With Me
 
 <div align="center">
 
-🎓 **MASTER OF COMPUTER APPLICATIONS (MCA)**
-
-Computer Applications · Programming · Database Management · Software Development
-
-</div>
-
----
-
-## ◈ `06` — LET'S CONNECT
-
-<div align="center">
-
-### Have an idea? Let's build something great.
+**Open to opportunities in Python, Django and Full Stack Development.**
 
 <a href="mailto:venkat17092003@gmail.com"><img src="https://img.shields.io/badge/Email-venkat17092003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://github.com/Sadham1412"><img src="https://img.shields.io/badge/GitHub-Sadham1412-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/venkatramamoorthy"><img src="https://img.shields.io/badge/LinkedIn-Venkatramamoorthy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://gifthub.sale/"><img src="https://img.shields.io/badge/Portfolio-GiftHub.sale-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://github.com/GVRaman17"><img src="https://img.shields.io/badge/GitHub-GVRaman17-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-📱 **+91 6383560226**
+📧 venkat17092003@gmail.com
+
+📱 +91 6383560226
+
+📍 Chennai, Tamil Nadu, India
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:090979&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F172A&height=120&section=footer" width="100%"/>
 
-**`CODE` · `CREATE` · `DEPLOY` · `REPEAT`**
+**BUILD • LEARN • DEPLOY • REPEAT**
 
 </div>
